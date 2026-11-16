@@ -3,7 +3,7 @@
 A simple web app that lets users search Wikipedia and view results instantly.
 
 ## Live Demo
-[Open the app](https://your-live-link.com)
+[Open the app](https://yasinwikipedia.ccbp.tech/)
 
 ## Features
 - Search any topic using a keyword
